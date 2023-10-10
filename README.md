@@ -7,11 +7,11 @@ This simple Node.js server acts as a proxy for the OMDB (The Open Movie Database
 1. **Get Single Movie Data**
 
    - Endpoint: GET `/movie/:title`
-   - Example usage: `/movie/Inception`
+   - Example usage: https://omdb-api-proxy.up.railway.app/movie/Inception
 
 2. **Get Multiple Movies Data**
    - Endpoint: GET `/movies/:search-term`
-   - Example usage: `/movies/Interstellar`
+   - Example usage: https://omdb-api-proxy.up.railway.app/movies/Interstellar
 
 ## Important
 
